@@ -12,7 +12,7 @@ export default function AboutMe() {
 
                     <p className='mt-4'>Currently, I'm especially interested in Tailwind CSS, NestJS, and MongoDB.
                         And this portfolio is the 1st time that I use Tailwind to build an interface!
-                        So I hope you have a good experince from my portfolio.</p>
+                        So I hope you have a good experience with my portfolio.</p>
 
                     <p className='mt-4'>Thanks for reading!</p>
                 </div>
