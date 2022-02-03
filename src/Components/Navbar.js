@@ -6,7 +6,7 @@ export default function Navbar() {
     const listStyle = "block md:inline-block mt-3 md:mt-0 mr-4 text-zinc-700 hover:text-amber-400";
 
     return (
-        <nav className="flex fixed flex-wrap items-center inset-x-0 justify-between bg-white p-5 drop-shadow-b">
+        <nav className="flex fixed flex-wrap items-center inset-x-0 justify-between bg-white p-5 drop-shadow-b z-10">
             <a href="/" className="flex items-center flex-shrink-0 text-zinc-700">
                 <span className="font-semibold text-xl tracking-wide ml-2">Phanpaporn Z.</span>
             </a>
