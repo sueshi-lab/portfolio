@@ -1,6 +1,7 @@
 import AboutMe from "./Components/AboutMe";
 import Landing from "./Components/Landing";
 import Navbar from "./Components/Navbar";
+import SeniorProject from "./Components/SeniorProject";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Navbar />
       <Landing />
       <AboutMe />
+      <SeniorProject />
     </div>
   );
 }

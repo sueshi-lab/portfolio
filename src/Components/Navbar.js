@@ -21,9 +21,9 @@ export default function Navbar() {
                     <a href="#aboutme" className={listStyle}>
                         About Me
                     </a>
-                    <a href="#mytoolkit" className={listStyle}>
+                    {/* <a href="#mytoolkit" className={listStyle}>
                         My Toolkit
-                    </a>
+                    </a> */}
                     <a href="#seniorproject" className={listStyle}>
                         Senior Project
                     </a>
